@@ -1,12 +1,12 @@
 @font-face {
      font-family: 'AdiShilaVedic';  /* Define a name for the font */
-     src: url('/krishnayajurveda/formats/txt/fonts/AdishilaVedic.woff2') format('woff2'), /* Path to the font file */
+     src: url('/krishnayajurveda/formats/fonts/AdishilaVedic.woff2') format('woff2'), /* Path to the font file */
            url('AdishilaVedic.woff') format('woff');
     }
 
 @font-face {
      font-family: 'AdishilaVedicTTF';  /* Define a name for the font */
-     src: url('/krishnayajurveda/formats/txt/fonts/AdishilaVedic.ttf') format('truetype'), /* Path to the font file */
+     src: url('/krishnayajurveda/formats/fonts/AdishilaVedic.ttf') format('truetype'), /* Path to the font file */
     }
 
     body {
