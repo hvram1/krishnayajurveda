@@ -9,6 +9,6 @@
      src: url('/krishnayajurveda/formats/fonts/AdishilaVedic.ttf') format('truetype'), /* Path to the font file */
     }
 
-    body {
+    body,pre {
       font-family: 'AdishilaVedicTTF', Regular; /* Use the defined font name */
     }
