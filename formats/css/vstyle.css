@@ -1,0 +1,14 @@
+@font-face {
+     font-family: 'AdiShilaVedic';  /* Define a name for the font */
+     src: url('AdiShilaVedic.woff2') format('woff2'), /* Path to the font file */
+           url('AdiShilaVedic.woff') format('woff');
+    }
+
+@font-face {
+     font-family: 'AdiShilaVedicTTF';  /* Define a name for the font */
+     src: url('/formats/txt/fonts/AdiShilaVedic.ttf') format('truetype'), /* Path to the font file */
+    }
+
+    body {
+      font-family: 'AdiShilaVedicTTF', Regular; /* Use the defined font name */
+    }
