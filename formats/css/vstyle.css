@@ -6,7 +6,7 @@
 
 @font-face {
      font-family: 'AdiShilaVedicTTF';  /* Define a name for the font */
-     src: url('/formats/txt/fonts/AdiShilaVedic.ttf') format('truetype'), /* Path to the font file */
+     src: url('/krishnayajurveda/formats/txt/fonts/AdiShilaVedic.ttf') format('truetype'), /* Path to the font file */
     }
 
     body {
